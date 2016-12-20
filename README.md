@@ -1,2 +1,2 @@
 # PassCodeView
-iOS passcode view
+Passcode view allows user to set numeric pin in an application.
