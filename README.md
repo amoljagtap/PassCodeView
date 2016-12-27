@@ -1,2 +1,2 @@
 # PassCodeView
-Passcode view allows user to set numeric pin in an application.
+Passcode view allows user to set numeric pin in application.
